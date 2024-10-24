@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on my new project quizsnap
 - 📫 How to reach me => email: rdhibakaran7@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: console.log("It's work bro");
+- ⚡ Fun fact: console.log("It's working bro");
 
 <!---
 dhibakaran-r/dhibakaran-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
