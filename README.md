@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dhibakaran-r
 - 👀 I’m interested in web development and frontend development
-- 🌱 I’m currently working on my new project quizsnap
 - 📫 How to reach me => email: rdhibakaran7@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: console.log("It's working bro");
